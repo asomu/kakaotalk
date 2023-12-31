@@ -1,0 +1,14 @@
+C:\Users\asomu\source\repos\wpf\kakaotalk\kakao\kakao\bin\Debug\net8.0-windows\kakao.exe
+C:\Users\asomu\source\repos\wpf\kakaotalk\kakao\kakao\bin\Debug\net8.0-windows\kakao.deps.json
+C:\Users\asomu\source\repos\wpf\kakaotalk\kakao\kakao\bin\Debug\net8.0-windows\kakao.runtimeconfig.json
+C:\Users\asomu\source\repos\wpf\kakaotalk\kakao\kakao\bin\Debug\net8.0-windows\kakao.dll
+C:\Users\asomu\source\repos\wpf\kakaotalk\kakao\kakao\bin\Debug\net8.0-windows\kakao.pdb
+C:\Users\asomu\source\repos\wpf\kakaotalk\kakao\kakao\obj\Debug\net8.0-windows\kakao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asomu\source\repos\wpf\kakaotalk\kakao\kakao\obj\Debug\net8.0-windows\kakao.AssemblyInfoInputs.cache
+C:\Users\asomu\source\repos\wpf\kakaotalk\kakao\kakao\obj\Debug\net8.0-windows\kakao.AssemblyInfo.cs
+C:\Users\asomu\source\repos\wpf\kakaotalk\kakao\kakao\obj\Debug\net8.0-windows\kakao.csproj.CoreCompileInputs.cache
+C:\Users\asomu\source\repos\wpf\kakaotalk\kakao\kakao\obj\Debug\net8.0-windows\kakao.dll
+C:\Users\asomu\source\repos\wpf\kakaotalk\kakao\kakao\obj\Debug\net8.0-windows\refint\kakao.dll
+C:\Users\asomu\source\repos\wpf\kakaotalk\kakao\kakao\obj\Debug\net8.0-windows\kakao.pdb
+C:\Users\asomu\source\repos\wpf\kakaotalk\kakao\kakao\obj\Debug\net8.0-windows\kakao.genruntimeconfig.cache
+C:\Users\asomu\source\repos\wpf\kakaotalk\kakao\kakao\obj\Debug\net8.0-windows\ref\kakao.dll
